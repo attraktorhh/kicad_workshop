@@ -87,7 +87,7 @@
       (mirror false)
       (drillshape 0)
       (scaleselection 1)
-      (outputdirectory "./Fabrication/"))
+      (outputdirectory "Fabrication/Gerber/"))
   )
 
   (net 0 "")
@@ -1075,7 +1075,7 @@
   (segment (start 138.5 66.2) (end 134.6 66.2) (width 0.25) (layer B.Cu) (net 10))
   (via (at 134.6 66.2) (size 0.8) (drill 0.4) (layers F.Cu B.Cu) (net 10))
 
-  (zone (net 2) (net_name GND) (layer F.Cu) (tstamp 5D9174A5) (hatch edge 0.508)
+  (zone (net 2) (net_name GND) (layer F.Cu) (tstamp 5D913633) (hatch edge 0.508)
     (connect_pads (clearance 0.508))
     (min_thickness 0.254)
     (fill yes (arc_segments 32) (thermal_gap 0.508) (thermal_bridge_width 0.508))
@@ -1458,7 +1458,7 @@
       )
     )
   )
-  (zone (net 2) (net_name GND) (layer B.Cu) (tstamp 5D9174A2) (hatch edge 0.508)
+  (zone (net 2) (net_name GND) (layer B.Cu) (tstamp 5D913630) (hatch edge 0.508)
     (connect_pads (clearance 0.508))
     (min_thickness 0.254)
     (fill yes (arc_segments 32) (thermal_gap 0.508) (thermal_bridge_width 0.508))
