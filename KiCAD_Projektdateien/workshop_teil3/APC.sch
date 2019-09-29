@@ -22,6 +22,11 @@ F 0 "U1" H 7250 3831 50  0000 C CNN
 F 1 "NE556" H 7250 3740 50  0000 C CNN
 F 2 "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm" H 7250 3250 50  0001 C CNN
 F 3 "http://www.ti.com/lit/ds/symlink/ne556.pdf" H 7250 3250 50  0001 C CNN
+F 4 "Mouser" H 7250 3250 50  0001 C CNN "Distributor"
+F 5 "TI" H 7250 3250 50  0001 C CNN "Manufacturer"
+F 6 "No" H 7250 3250 50  0001 C CNN "NP"
+F 7 "595-NE556DR" H 7250 3250 50  0001 C CNN "Order Nr."
+F 8 "NE556DR" H 7250 3250 50  0001 C CNN "Part Nr."
 	2    7250 3250
 	1    0    0    -1  
 $EndComp
@@ -33,6 +38,11 @@ F 0 "C1" V 5602 3900 50  0000 C CNN
 F 1 "10nF" V 5511 3900 50  0000 C CNN
 F 2 "Capacitor_SMD:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder" H 5388 3750 50  0001 C CNN
 F 3 "~" H 5350 3900 50  0001 C CNN
+F 4 "Mouser" H 5350 3900 50  0001 C CNN "Distributor"
+F 5 "Wurth Elektronik" H 5350 3900 50  0001 C CNN "Manufacturer"
+F 6 "No" H 5350 3900 50  0001 C CNN "NP"
+F 7 "710-885012206040" H 5350 3900 50  0001 C CNN "Order Nr."
+F 8 "885012206040" H 5350 3900 50  0001 C CNN "Part Nr."
 	1    5350 3900
 	0    -1   -1   0   
 $EndComp
@@ -44,6 +54,11 @@ F 0 "C2" V 7248 3900 50  0000 C CNN
 F 1 "100nF" V 7339 3900 50  0000 C CNN
 F 2 "Capacitor_SMD:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder" H 7538 3750 50  0001 C CNN
 F 3 "~" H 7500 3900 50  0001 C CNN
+F 4 "Mouser" H 7500 3900 50  0001 C CNN "Distributor"
+F 5 "Wurth Elektronik" H 7500 3900 50  0001 C CNN "Manufacturer"
+F 6 "No" H 7500 3900 50  0001 C CNN "NP"
+F 7 "710-885012206046" H 7500 3900 50  0001 C CNN "Order Nr."
+F 8 "885012206046" H 7500 3900 50  0001 C CNN "Part Nr."
 	1    7500 3900
 	0    1    1    0   
 $EndComp
@@ -55,6 +70,11 @@ F 0 "C3" V 7895 3050 50  0000 C CNN
 F 1 "10uF" V 7986 3050 50  0000 C CNN
 F 2 "Capacitor_SMD:CP_Elec_5x3" H 8188 2900 50  0001 C CNN
 F 3 "~" H 8150 3050 50  0001 C CNN
+F 4 "Mouser" H 8150 3050 50  0001 C CNN "Distributor"
+F 5 "Wurth Elektronik" H 8150 3050 50  0001 C CNN "Manufacturer"
+F 6 "No" H 8150 3050 50  0001 C CNN "NP"
+F 7 "710-865080340001" H 8150 3050 50  0001 C CNN "Order Nr."
+F 8 "865080340001" H 8150 3050 50  0001 C CNN "Part Nr."
 	1    8150 3050
 	0    1    1    0   
 $EndComp
@@ -66,6 +86,7 @@ F 0 "J1" V 8464 2312 50  0000 R CNN
 F 1 "Conn_01x02" V 8373 2312 50  0000 R CNN
 F 2 "Connector_Wire:SolderWirePad_1x02_P7.62mm_Drill2.5mm" H 8500 2500 50  0001 C CNN
 F 3 "~" H 8500 2500 50  0001 C CNN
+F 4 "Yes" H 8500 2500 50  0001 C CNN "NP"
 	1    8500 2500
 	0    -1   -1   0   
 $EndComp
@@ -77,6 +98,11 @@ F 0 "BT1" H 3518 3696 50  0000 L CNN
 F 1 "Battery_Cell" H 3518 3605 50  0000 L CNN
 F 2 "Battery:BatteryHolder_Eagle_12BH611-GR" V 3400 3660 50  0001 C CNN
 F 3 "~" V 3400 3660 50  0001 C CNN
+F 4 "Mouser" H 3400 3600 50  0001 C CNN "Distributor"
+F 5 "Eagle Plastic Devices" H 3400 3600 50  0001 C CNN "Manufacturer"
+F 6 "No" H 3400 3600 50  0001 C CNN "NP"
+F 7 "12BH611-GR" H 3400 3600 50  0001 C CNN "Order Nr."
+F 8 "12BH611-GR" H 3400 3600 50  0001 C CNN "Part Nr."
 	1    3400 3600
 	1    0    0    -1  
 $EndComp
@@ -88,6 +114,11 @@ F 0 "SW1" V 3446 2712 50  0000 R CNN
 F 1 "SW_SPDT" V 3355 2712 50  0000 R CNN
 F 2 "Button_Switch_SMD:SW_SPDT_CK-JS102011SAQN" H 3400 2900 50  0001 C CNN
 F 3 "~" H 3400 2900 50  0001 C CNN
+F 4 "Mouser" H 3400 2900 50  0001 C CNN "Distributor"
+F 5 "C&K" H 3400 2900 50  0001 C CNN "Manufacturer"
+F 6 "No" H 3400 2900 50  0001 C CNN "NP"
+F 7 "611-JS102011SAQN" H 3400 2900 50  0001 C CNN "Order Nr."
+F 8 "JS102011SAQN" H 3400 2900 50  0001 C CNN "Part Nr."
 	1    3400 2900
 	0    -1   -1   0   
 $EndComp
@@ -188,6 +219,11 @@ F 0 "U1" H 5100 3831 50  0000 C CNN
 F 1 "NE556" H 5100 3740 50  0000 C CNN
 F 2 "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm" H 5100 3250 50  0001 C CNN
 F 3 "http://www.ti.com/lit/ds/symlink/ne556.pdf" H 5100 3250 50  0001 C CNN
+F 4 "Mouser" H 5100 3250 50  0001 C CNN "Distributor"
+F 5 "TI" H 5100 3250 50  0001 C CNN "Manufacturer"
+F 6 "No" H 5100 3250 50  0001 C CNN "NP"
+F 7 "595-NE556DR" H 5100 3250 50  0001 C CNN "Order Nr."
+F 8 "NE556DR" H 5100 3250 50  0001 C CNN "Part Nr."
 	1    5100 3250
 	1    0    0    -1  
 $EndComp
@@ -267,6 +303,11 @@ F 0 "R1" H 6170 3596 50  0000 L CNN
 F 1 "1K" H 6170 3505 50  0000 L CNN
 F 2 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" V 6030 3550 50  0001 C CNN
 F 3 "~" H 6100 3550 50  0001 C CNN
+F 4 "Mouser" H 6100 3550 50  0001 C CNN "Distributor"
+F 5 "Panasonic" H 6100 3550 50  0001 C CNN "Manufacturer"
+F 6 "No" H 6100 3550 50  0001 C CNN "NP"
+F 7 "667-ERJ-U02D7500X" H 6100 3550 50  0001 C CNN "Order Nr."
+F 8 "ERJ-U02D7500X" H 6100 3550 50  0001 C CNN "Part Nr."
 	1    6100 3550
 	1    0    0    -1  
 $EndComp
@@ -333,6 +374,7 @@ F 0 "TP1" V 3245 2722 50  0000 C CNN
 F 1 "9V" V 3154 2722 50  0000 C CNN
 F 2 "TestPoint:TestPoint_Pad_D1.5mm" H 3250 2650 50  0001 C CNN
 F 3 "~" H 3250 2650 50  0001 C CNN
+F 4 "Yes" H 3050 2650 50  0001 C CNN "NP"
 	1    3050 2650
 	0    -1   -1   0   
 $EndComp
@@ -347,6 +389,7 @@ F 0 "TP2" V 3445 3972 50  0000 C CNN
 F 1 "GND" V 3354 3972 50  0000 C CNN
 F 2 "TestPoint:TestPoint_Pad_D1.5mm" H 3450 3900 50  0001 C CNN
 F 3 "~" H 3450 3900 50  0001 C CNN
+F 4 "Yes" H 3250 3900 50  0001 C CNN "NP"
 	1    3250 3900
 	0    -1   -1   0   
 $EndComp
@@ -362,6 +405,7 @@ F 0 "TP3" H 6208 2618 50  0000 L CNN
 F 1 "Out1" H 6208 2527 50  0000 L CNN
 F 2 "TestPoint:TestPoint_Pad_D1.5mm" H 6350 2500 50  0001 C CNN
 F 3 "~" H 6350 2500 50  0001 C CNN
+F 4 "Yes" H 6150 2500 50  0001 C CNN "NP"
 	1    6150 2500
 	1    0    0    -1  
 $EndComp
@@ -397,6 +441,11 @@ F 0 "RV2" H 8330 3546 50  0000 R CNN
 F 1 "1M" H 8330 3455 50  0000 R CNN
 F 2 "Potentiometer_THT:Potentiometer_Bourns_PTV09A-1_Single_Vertical" H 8400 3500 50  0001 C CNN
 F 3 "~" H 8400 3500 50  0001 C CNN
+F 4 "Mouser" H 8400 3500 50  0001 C CNN "Distributor"
+F 5 "Bourns" H 8400 3500 50  0001 C CNN "Manufacturer"
+F 6 "No" H 8400 3500 50  0001 C CNN "NP"
+F 7 "652-PTV09A4020UB504" H 8400 3500 50  0001 C CNN "Order Nr."
+F 8 "PTV09A-4020U-B504" H 8400 3500 50  0001 C CNN "Part Nr."
 	1    8400 3500
 	-1   0    0    1   
 $EndComp
@@ -408,6 +457,11 @@ F 0 "RV3" H 8530 3004 50  0000 R CNN
 F 1 "5K" H 8530 3095 50  0000 R CNN
 F 2 "Potentiometer_THT:Potentiometer_Bourns_PTV09A-1_Single_Vertical" H 8600 3050 50  0001 C CNN
 F 3 "~" H 8600 3050 50  0001 C CNN
+F 4 "Mouser" H 8600 3050 50  0001 C CNN "Distributor"
+F 5 "Bourns" H 8600 3050 50  0001 C CNN "Manufacturer"
+F 6 "No" H 8600 3050 50  0001 C CNN "NP"
+F 7 "652-PTV09A-4020FA502" H 8600 3050 50  0001 C CNN "Order Nr."
+F 8 "PTV09A-4020F-A502" H 8600 3050 50  0001 C CNN "Part Nr."
 	1    8600 3050
 	-1   0    0    1   
 $EndComp
@@ -419,6 +473,7 @@ F 0 "TP5" V 8804 3438 50  0000 L CNN
 F 1 "In2" V 8895 3438 50  0000 L CNN
 F 2 "TestPoint:TestPoint_Pad_D1.5mm" H 9050 3250 50  0001 C CNN
 F 3 "~" H 9050 3250 50  0001 C CNN
+F 4 "Yes" H 8850 3250 50  0001 C CNN "NP"
 	1    8850 3250
 	0    1    1    0   
 $EndComp
@@ -433,6 +488,7 @@ F 0 "TP4" V 6054 3438 50  0000 L CNN
 F 1 "In1" V 6145 3438 50  0000 L CNN
 F 2 "TestPoint:TestPoint_Pad_D1.5mm" H 6300 3250 50  0001 C CNN
 F 3 "~" H 6300 3250 50  0001 C CNN
+F 4 "Yes" H 6100 3250 50  0001 C CNN "NP"
 	1    6100 3250
 	0    1    1    0   
 $EndComp
@@ -458,6 +514,11 @@ F 0 "RV1" H 6030 3046 50  0000 R CNN
 F 1 "1M" H 6030 2955 50  0000 R CNN
 F 2 "Potentiometer_THT:Potentiometer_Bourns_PTV09A-1_Single_Vertical" H 6100 3000 50  0001 C CNN
 F 3 "~" H 6100 3000 50  0001 C CNN
+F 4 "Mouser" H 6100 3000 50  0001 C CNN "Distributor"
+F 5 "Bourns" H 6100 3000 50  0001 C CNN "Manufacturer"
+F 6 "No" H 6100 3000 50  0001 C CNN "NP"
+F 7 "652-PTV09A4020UB504" H 6100 3000 50  0001 C CNN "Order Nr."
+F 8 "PTV09A-4020U-B504" H 6100 3000 50  0001 C CNN "Part Nr."
 	1    6100 3000
 	1    0    0    -1  
 $EndComp
@@ -471,6 +532,7 @@ F 0 "H2" H 8500 5996 50  0000 L CNN
 F 1 "MountingHole" H 8500 5905 50  0000 L CNN
 F 2 "MountingHole:MountingHole_3.2mm_M3" H 8400 5950 50  0001 C CNN
 F 3 "~" H 8400 5950 50  0001 C CNN
+F 4 "Yes" H 8400 5950 50  0001 C CNN "NP"
 	1    8400 5950
 	1    0    0    -1  
 $EndComp
@@ -482,6 +544,7 @@ F 0 "H3" H 9350 5996 50  0000 L CNN
 F 1 "MountingHole" H 9350 5905 50  0000 L CNN
 F 2 "MountingHole:MountingHole_3.2mm_M3" H 9250 5950 50  0001 C CNN
 F 3 "~" H 9250 5950 50  0001 C CNN
+F 4 "Yes" H 9250 5950 50  0001 C CNN "NP"
 	1    9250 5950
 	1    0    0    -1  
 $EndComp
@@ -493,6 +556,7 @@ F 0 "H4" H 10100 5996 50  0000 L CNN
 F 1 "MountingHole" H 10100 5905 50  0000 L CNN
 F 2 "MountingHole:MountingHole_3.2mm_M3" H 10000 5950 50  0001 C CNN
 F 3 "~" H 10000 5950 50  0001 C CNN
+F 4 "Yes" H 10000 5950 50  0001 C CNN "NP"
 	1    10000 5950
 	1    0    0    -1  
 $EndComp
@@ -504,7 +568,44 @@ F 0 "H1" H 7750 5996 50  0000 L CNN
 F 1 "MountingHole" H 7750 5905 50  0000 L CNN
 F 2 "MountingHole:MountingHole_3.2mm_M3" H 7650 5950 50  0001 C CNN
 F 3 "~" H 7650 5950 50  0001 C CNN
+F 4 "Yes" H 7650 5950 50  0001 C CNN "NP"
 	1    7650 5950
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:Fiducial FID1
+U 1 1 5D9131F7
+P 8050 5450
+F 0 "FID1" H 8135 5496 50  0000 L CNN
+F 1 "Fiducial" H 8135 5405 50  0000 L CNN
+F 2 "Fiducial:Fiducial_1mm_Mask2mm" H 8050 5450 50  0001 C CNN
+F 3 "~" H 8050 5450 50  0001 C CNN
+F 4 "Yes" H 8050 5450 50  0001 C CNN "NP"
+	1    8050 5450
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:Fiducial FID2
+U 1 1 5D9137E1
+P 8800 5450
+F 0 "FID2" H 8885 5496 50  0000 L CNN
+F 1 "Fiducial" H 8885 5405 50  0000 L CNN
+F 2 "Fiducial:Fiducial_1mm_Mask2mm" H 8800 5450 50  0001 C CNN
+F 3 "~" H 8800 5450 50  0001 C CNN
+F 4 "Yes" H 8800 5450 50  0001 C CNN "NP"
+	1    8800 5450
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:Fiducial FID3
+U 1 1 5D913AE4
+P 9600 5450
+F 0 "FID3" H 9685 5496 50  0000 L CNN
+F 1 "Fiducial" H 9685 5405 50  0000 L CNN
+F 2 "Fiducial:Fiducial_1mm_Mask2mm" H 9600 5450 50  0001 C CNN
+F 3 "~" H 9600 5450 50  0001 C CNN
+F 4 "Yes" H 9600 5450 50  0001 C CNN "NP"
+	1    9600 5450
 	1    0    0    -1  
 $EndComp
 $EndSCHEMATC
