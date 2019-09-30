@@ -1,0 +1,15 @@
+### Module positions - created on 2019 September 30, Monday 22:29:29 ###
+### Printed by Pcbnew version kicad (5.1.4-0-10_14)
+## Unit = mm, Angle = deg.
+## Side : All
+# Ref     Val       Package                                           PosX       PosY       Rot  Side
+C1        10nF      C_0603_1608Metric_Pad1.05x0.95mm_HandSolder    64.0000    32.0000  180.0000  top
+C2        100nF     C_0603_1608Metric_Pad1.05x0.95mm_HandSolder    48.4000    29.4000  180.0000  top
+C3        10uF      CP_Elec_5x3                                    63.0000    42.0000  180.0000  top
+FID1      Fiducial  Fiducial_1mm_Mask2mm                           87.0000    48.0000    0.0000  top
+FID2      Fiducial  Fiducial_1mm_Mask2mm                           83.0000     6.0000    0.0000  top
+FID3      Fiducial  Fiducial_1mm_Mask2mm                            6.0000    48.0000    0.0000  top
+R1        1K        R_0603_1608Metric_Pad1.05x0.95mm_HandSolder    63.0000    28.5000   90.0000  top
+SW1       SW_SPDT   SW_SPDT_CK-JS102011SAQN                        47.2000    51.7000  180.0000  top
+U1        NE556     SOIC-14_3.9x8.7mm_P1.27mm                      55.0000    32.0000  180.0000  top
+## End
