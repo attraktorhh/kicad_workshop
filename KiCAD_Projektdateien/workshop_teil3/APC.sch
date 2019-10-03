@@ -608,4 +608,15 @@ F 4 "Yes" H 9600 5450 50  0001 C CNN "NP"
 	1    9600 5450
 	1    0    0    -1  
 $EndComp
+$Comp
+L APC:Rick'sLED D1
+U 1 1 5D93CBD1
+P 9100 1550
+F 0 "D1" H 9050 1840 50  0000 C CNN
+F 1 "Rick'sLED" H 9050 1749 50  0000 C CNN
+F 2 "APC:SOIC-12" H 9100 1725 50  0001 C CNN
+F 3 "http://www.osram-os.com/Graphics/XPic5/00181708_0.pdf" H 9050 1550 50  0001 C CNN
+	1    9100 1550
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
